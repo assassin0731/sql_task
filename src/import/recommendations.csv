@@ -1,0 +1,13 @@
+﻿ID,Peer,RecommendedPeer
+1,zemelya,ivanov
+2,chelovek,avtobus
+3,chelovek,ivanov
+4,avtobus,chelovek
+5,slon,ivanov
+6,mashina,chelovek
+7,mashina,avtobus
+8,mashina,ivanov
+9,kotey,ivanov
+10,ivanov,avtobus
+11,ivanov,mashina
+12,sokolov,ivanov

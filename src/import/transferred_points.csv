@@ -1,0 +1,16 @@
+﻿ID,CheckingPeer,CheckedPeer,PointsAmount
+1,zemelya,ivanov,2
+2,chelovek,zemelya,1
+3,avtobus,chelovek,2
+4,slon,mashina,1
+5,slon,ivanov,1
+6,mashina,chelovek,2
+7,ivanov,chelovek,2
+8,chelovek,avtobus,2
+9,ivanov,avtobus,1
+10,mashina,avtobus,2
+11,mashina,ivanov,3
+12,kotey,ivanov,1
+13,ivanov,mashina,3
+14,sokolov,ivanov,1
+15,chelovek,ivanov,1

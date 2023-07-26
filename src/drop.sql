@@ -1,0 +1,11 @@
+DROP TABLE TimeTracking;
+DROP TABLE XP;
+DROP TABLE Recommendations;
+DROP TABLE Friends;
+DROP TABLE TransferredPoints;
+DROP TABLE Verter;
+DROP TABLE P2P;
+DROP TABLE Checks;
+DROP TABLE Tasks;
+DROP TABLE Peers;
+drop type check_status;
